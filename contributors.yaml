@@ -44,3 +44,12 @@ contributors:
   skills: ["html", "css", "javascript"]
   favorite_language: "JavaScript" # or your preferred language
   joined_date: "2025-12-20" # Today's date
+
+  # Add your entry following the existing format
+- name: "S. Rafie Mukhti"
+  github: "saidrafiee"
+  role: "Student"
+  batch: "21" # Your batch number
+  skills: ["JavaScript", "NodeJs", "Tailwind"]
+  favorite_language: "JavaScript" # or your preferred language
+  joined_date: "2026-08-20" # Today's date
